@@ -1,0 +1,7 @@
+# Project Dependencies
+Flask==2.1.1                    # A micro web framework for Python
+scikit-learn==0.24.2            # Machine learning library for Python
+pandas==1.2.5                   # Data manipulation library
+numpy==1.21.2                   # Numerical computation library
+joblib==1.0.1                   # Library for lightweight pipelining in Python
+gunicorn==20.1.0                # A WSGI HTTP server for running your Flask app in production
