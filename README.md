@@ -190,20 +190,6 @@ breast_cancer_detection/
 - [ ] **Explainable AI**: LIME/SHAP integration for model interpretability
 - [ ] **Mobile App**: React Native/Flutter app for point-of-care testing
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **UCI Machine Learning Repository** for providing the dataset
